@@ -7,3 +7,5 @@ This is demo project built using:
 3. Mathjs (for expression evaluation)
 
 ### URL
+
+https://calculator-m-ui.netlify.com/
