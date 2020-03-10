@@ -1,0 +1,19 @@
+.MuiPaper-root {
+  background-color: #333333;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: medium;
+  font-weight: bold;
+  width: 4em;
+  height: 4em;
+
+  border-left: 1px solid grey;
+  border-bottom: 1px solid grey ;
+}
+
+.operator {
+  background-color: #f50057;
+  color: white;
+}

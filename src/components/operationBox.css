@@ -1,0 +1,49 @@
+.MuiButton-contained {
+  background-color: #8e24aa;
+  color: white;
+  font-size: medium;
+  margin: 5px 0;
+}
+.MuiButton-contained:hover {
+  background-color: #6a1b9a;
+  color: white;
+}
+
+.MuiButton-outlined {
+  background-color: #f50057;
+  font-size: 1rem;
+  color: white;
+  margin: 5px 0;
+}
+.MuiButton-outlined:hover {
+  background-color: #c51162;
+}
+.MuiButton-fullWidth {
+  width: 92%;
+}
+/* .MuiPaper-root {
+  background-color: #e1bee7;
+} */
+
+/* .input{
+  height: 50px;
+  background-color: black;
+  padding-top: 10px;
+} */
+.view1 {
+  display: block;
+  text-align: end;
+  padding-right: 22px;
+  color: coral;
+  font-size: small;
+}
+
+.view2 {
+  display: block;
+  text-align: end;
+  padding-right: 20px;
+  padding-top: 0;
+  color: coral;
+  font-weight: bolder;
+  font-size: larger;
+}

@@ -1,0 +1,12 @@
+.button {
+    height: 2.5em;
+    width: 15.2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1em;
+    background-color: black;
+    color: #ff3d00;
+    padding: 0.5em;
+  }
